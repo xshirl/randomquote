@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i');
+
+#quoteDisplay {
+  font-family:Lato;
+  font-weight:300;
+  text-align:center;
+  padding:20px;
+  font-size:20px;
+}
+
+h1 {
+  color:maroon;
+  font-family:Lato;
+   text-align:center;
+}
+
+.button {
+  border-radius: 3px;
+  background-color:maroon;
+  border: 1px solid maroon;
+  color:white;
+  height: 40px;
+  width:100px;
+  position:relative;
+  left:45%;
+}
+
+.buttons {
+  border-radius:3px;
+  background-color:maroon;
+  color:white;
+  height:100px;
+  padding:10px;
+  left:45%;
+  position:relative;
+}
